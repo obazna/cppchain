@@ -1,0 +1,9 @@
+[submodule "lib/picosha2"]
+	path = lib/picosha2
+	url = https://github.com/okdshin/PicoSHA2.git
+[submodule "lib/spdlog"]
+	path = lib/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "lib/fmt"]
+	path = lib/fmt
+	url = https://github.com/fmtlib/fmt.git
